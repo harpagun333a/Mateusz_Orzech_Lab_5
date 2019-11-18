@@ -1,0 +1,11 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\bin\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\bin\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\bin\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\bin\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\bin\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\bin\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\obj\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.csprojAssemblyReference.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\obj\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\obj\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\obj\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_1_Petla_For\Cwiczenie_1_Petla_For\obj\Debug\netcoreapp3.0\Cwiczenie_1_Petla_For.pdb
