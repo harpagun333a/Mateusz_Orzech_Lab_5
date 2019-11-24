@@ -1,0 +1,11 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\bin\Debug\netcoreapp3.0\Cwiczenie_9_Book.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\bin\Debug\netcoreapp3.0\Cwiczenie_9_Book.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\bin\Debug\netcoreapp3.0\Cwiczenie_9_Book.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\bin\Debug\netcoreapp3.0\Cwiczenie_9_Book.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\bin\Debug\netcoreapp3.0\Cwiczenie_9_Book.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\bin\Debug\netcoreapp3.0\Cwiczenie_9_Book.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\obj\Debug\netcoreapp3.0\Cwiczenie_9_Book.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\obj\Debug\netcoreapp3.0\Cwiczenie_9_Book.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\obj\Debug\netcoreapp3.0\Cwiczenie_9_Book.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\obj\Debug\netcoreapp3.0\Cwiczenie_9_Book.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_9_Book\Cwiczenie_9_Book\obj\Debug\netcoreapp3.0\Cwiczenie_9_Book.csprojAssemblyReference.cache

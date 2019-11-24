@@ -1,0 +1,11 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\bin\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\bin\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\bin\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\bin\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\bin\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\bin\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\obj\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.csprojAssemblyReference.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\obj\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\obj\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\obj\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie8_Klasa_Matrix\Cwiczenie8_Klasa_Matrix\obj\Debug\netcoreapp3.0\Cwiczenie8_Klasa_Matrix.pdb

@@ -1,0 +1,10 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\bin\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\bin\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\bin\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\bin\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\bin\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\bin\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\obj\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\obj\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\obj\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_Lab_5\Cwiczenie_5_P_Invoke\Cwiczenie_5_P_Invoke\obj\Debug\netcoreapp3.0\Cwiczenie_5_P_Invoke.pdb

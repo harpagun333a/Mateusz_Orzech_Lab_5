@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Cwiczenie_9_Book/1.0.0": {
+        "runtime": {
+          "Cwiczenie_9_Book.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cwiczenie_9_Book/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
